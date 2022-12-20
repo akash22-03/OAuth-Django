@@ -1,6 +1,6 @@
 # OAuth-Django
 <h3>LogIn page (endpoint: accounts/login/) </h3>
-<img src="Pics/1.png">
+<img src="Pics/1.png" class="img-responsive" alt="">
 
 <h3>Confirmation page by allauth (endpoint: accounts/google/login/) </h3>
 <img src="Pics/2.png">
